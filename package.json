@@ -2,7 +2,6 @@
   "name": "@c3s-applications/ecmwf-apps-ui",
   "repository": "https://github.com/c3s-applications/ecmwf-apps-ui.git",
   "version": "0.1.0",
-  "private": true,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
